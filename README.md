@@ -149,19 +149,7 @@ Output Nodes - Temperature gauge - Air quality gauge - Data chart
 
 ------------------------------------------------------------------------
 
-# Video Demonstration Explanation
 
-The video explains:
-
-Pub/Sub Roles - Publishers send data - Broker routes messages -
-Subscribers receive data
-
-Wildcard Topics - campus/sensor/# receives data from multiple topics
-
-QoS vs Retained Messages - QoS ensures delivery reliability - Retained
-messages store the last value for new subscribers
-
-------------------------------------------------------------------------
 
 # Technologies Used
 
@@ -171,13 +159,7 @@ messages store the last value for new subscribers
 -   Node-RED Dashboard
 -   JavaScript (Function Nodes)
 
-------------------------------------------------------------------------
 
-# GitHub Repository
-
-Paste your repository link below:
-
-(Add your GitHub repository link here)
 
 ------------------------------------------------------------------------
 
