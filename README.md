@@ -187,3 +187,7 @@ This project demonstrates how MQTT enables efficient communication using
 the publish--subscribe model. Using Node-RED and MQTT broker, real-time
 sensor data can be collected, monitored, and visualized through
 dashboards.
+
+
+#Video   Demonstration Link
+https://drive.google.com/file/d/1Y776e9hRiF8KjApRpr7ivopmiN1hr8p_/view?usp=sharing
